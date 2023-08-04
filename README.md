@@ -9,3 +9,5 @@
 ## 参考
 ESP32_Flutter_JoyPad/flutter_app_joypad_ble/lib/main.dart<br>
 https://github.com/0015/ThatProject/blob/master/ESP32_Flutter_JoyPad/flutter_app_joypad_ble/lib/main.dart
+## 動画
+https://youtu.be/iRaoey4nAVk
